@@ -1,0 +1,7 @@
+section {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    justify-content: center;
+    grid-template-rows: 100vh 80vh 80vh;
+    gap: 2em;
+}
